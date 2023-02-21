@@ -8,17 +8,12 @@ Checkout [my website](https://albertabril.com) for some posts and more info.
 - 🌱 Currently learning **vlang**
  
 - 💬 Ask me about:
-  +  full stack development
-  +  linux
-  +  node, javascript, typescript
-  +  docker, kubernetes, linux
-  +  startups, agile, infrastructure
+  +  Linux, Infrastructure and Devops.
+  +  node, javascript, typescript, docker, kubernetes
 
 - 💡 Curious about: 
-  + virtualization, orchestration, kubernetes, podman, unikraft
-  + bitcoin dev, cardano dev, 
-  + haskell, golang, rust, vlang
-  + nostr, unikraft within others
+  + unikraft, bitcoin dev, cardano dev, 
+  + haskell, golang, rust
 
 - ⚡ Fun facts: 
   + 2000: First time using Linux in the as a teenager -> Slackware 9.1 on a 486

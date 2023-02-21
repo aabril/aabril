@@ -5,7 +5,8 @@ I'm Albert,
 I have a great interest in fullstack development, DevOps and Blockchain.    
 Checkout [my website](https://albertabril.com) for some posts and more info.
 
-- 🌱 Currently learning **vlang**
+- 🌱 Currently learning 
+ + **vlang**
  
 - 💬 Ask me about:
   +  Linux, Infrastructure and Devops.

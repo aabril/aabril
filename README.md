@@ -2,7 +2,7 @@
 
 I'm Albert, 
 
-I have a great interest in fullstack development, DevOps and Blockchain.
+I have a great interest in fullstack development, DevOps and Blockchain.    
 Checkout my website for some short posts and more about me: https://albertabril.com/
 
 - 🌱 Currently learning **vlang**

@@ -17,8 +17,7 @@ Checkout [my website](https://albertabril.com) for some posts and more info.
   + haskell, golang, rust
 
 - ⚡ Fun facts: 
-  + Linux user since the age of 15 in 2000 (an Slackware 9.1 on a 486)
-  + First mac (iBook G4) in 2004
+  + Proud Linux user since the age of 15 in 2000 (an Slackware 9.1 on a 486)
   + Oboe player from the age of 10 at Conservatory Music School
 
 <!--

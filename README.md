@@ -5,9 +5,7 @@ I'm Albert,
 I have a great interest in fullstack development, DevOps and Blockchain.
 Checkout my website for some short posts and more about me: https://albertabril.com/
 
-- 🌱 I’m currently learning 
-  - **vlang**
-  - golang
+- 🌱 Currently learning **vlang**
  
 - 💬 Ask me about:
   -  full stack development
@@ -25,7 +23,7 @@ Checkout my website for some short posts and more about me: https://albertabril.
 - ⚡ Fun facts: 
   - 2000: First time using Linux in the as a teenager -> Slackware 9.1 on a 486
   - 2004: First mac (iBook G4)
-  - I useds to play the oboe from the age of 9, later I've been more into computers.
+  - Used to play the oboe from the age of 9
 
 <!--
 **aabril/aabril** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

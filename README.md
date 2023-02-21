@@ -5,18 +5,27 @@ I'm Albert,
 I have a great interest in fullstack development, DevOps and Blockchain.
 Checkout my website for some short posts and more about me: https://albertabril.com/
 
-- 🌱 I’m currently learning **vlang**
-- 💬 Ask me about full stack development, node, javascript, typescroipt, docker, kubernetes, linux.
+- 🌱 I’m currently learning 
+  - **vlang**
+  - golang
+ 
+- 💬 Ask me about:
+  -  full stack development
+  -  linux
+  -  node, javascript, typescript
+  -  docker, kubernetes, linux
+  -  startups, agile, infrastructure
+
 - 💡 Curious about: 
   - virtualization, orchestration, kubernetes, podman, unikraft
   - bitcoin dev, cardano dev, 
   - haskell, golang, rust, vlang
-  - nostr, unikraft within others.
-- ⚡ Fun facts: 
-  - First time using Linux in the 2000 as a teenager, Slackware 9.1 on a 486, and I felt in Love.
-  - I played the oboe from 9 to 20 years old, later I've been more into guitar, uke and computers.
-  - First mac in 2004 (iBook)
+  - nostr, unikraft within others
 
+- ⚡ Fun facts: 
+  - 2000: First time using Linux in the as a teenager -> Slackware 9.1 on a 486
+  - 2004: First mac (iBook G4)
+  - I useds to play the oboe from the age of 9, later I've been more into computers.
 
 <!--
 **aabril/aabril** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
